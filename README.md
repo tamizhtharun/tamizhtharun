@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate and dedicated **MERN Stack Developer** (M
 - Git & GitHub
 - Postman for API testing
 - VS Code
-- npm, yarn
+- npm
 
 ---
 
